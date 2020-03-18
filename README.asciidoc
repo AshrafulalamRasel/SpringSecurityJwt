@@ -1,0 +1,13 @@
+# ibcs-primaxemployeemanager
+#Maven Project
+#Server port - http://localhost:3001/api/auth/signup
+#Rest API
+#Spring Data JPA
+#Mysql
+#Hibernate Query Language(HQL)
+
+
+#JWT
+# User Accounts and Authentication
+
+**User Accounts and Authentication** app is responsible managing user accounts and authentication.
